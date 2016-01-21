@@ -17,7 +17,7 @@ const App = {
       packs: [
         smokesignals.Trailpack,
         require('trailpack-core'),
-        require('../') // trailpack-express4
+        require('../') // trailpack-machinepack
       ]
     }
   }

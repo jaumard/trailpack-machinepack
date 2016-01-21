@@ -2,7 +2,6 @@ language: node_js
 node_js:
 - '4'
 - stable
-
 notifications:
   email: false
   webhooks:
@@ -10,14 +9,13 @@ notifications:
     - https://webhooks.gitter.im/e/54f8a1e753f859f5ca1a
     on_start: never
     on_failure: change
-
 deploy:
   provider: npm
   email: jimmy.aumard@gmail.com
   api_key:
-    secure: TODO
+    secure: RDPhudAMHZWzhbGhVJNTd7z2BvUJ07xtimYzDc1tkRt3dILJEqB5fGWlzCHkO9pfv1lRpyG+dOTkXu8X6IaHtfWNGI0lfNklD2B5qjTkrlWMGwBRsLNMA9ExWXBENO3D+2VycVrmylZaJiCg9syQCsCavMAbtbQPV2w5aA68HFNtAyg0zDdnrkfR4V72Sl1WpSscAJ86rRXG7e7XqHVrXASofJHla7Sdw6gEWpoFAoRIDaYS9/kWxczdwvqDvW0JehKMUQrcKnS2JwwTcdnVYR24NqbegGrYECZE4NSk0behDhbrZ4tj44cvMmNcl1oBVwHUX6Z6KG4hENW5rtXuUNSWYCh8ZVJp9hSQa8ZdUWQaXYxEBpQrsyJpXKaULIwwtvNWy2iTkd3LiKbnZF4KgqnTJwtAJFdwk9T1fIzqwOZbgOY6aaegQkQNBccflJ3TVLWch1dflU4QNxZYdsBc7liGLTZghraduTi/lmNpGulwBPUoRr+2GR2RldZ6e/R8TH53OKEDh6mOz4sX0ysDYbRyjY5YWfx4GbWYHBpCXsZ6zGztABtsGRfgmBugYD2Mn2Ql/QcDlGTuP++X+8l2DdLKXVDzq/l9lYtMK7nFMwamqiWzdf4QDh/W3MEoUb2CJPnVdbxjOn2+o48Odrv0Vpeht++S2UOZqMt+4C2EIVk=
   on:
     tags: true
     repo: jaumard/trailpack-machinepack
     all_branches: true
-    node: 'stable'
+    node: stable
