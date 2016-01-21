@@ -1,0 +1,23 @@
+language: node_js
+node_js:
+- '4'
+- stable
+
+notifications:
+  email: false
+  webhooks:
+    urls:
+    - https://webhooks.gitter.im/e/54f8a1e753f859f5ca1a
+    on_start: never
+    on_failure: change
+
+deploy:
+  provider: npm
+  email: jimmy.aumard@gmail.com
+  api_key:
+    secure: TODO
+  on:
+    tags: true
+    repo: jaumard/trailpack-machinepack
+    all_branches: true
+    node: 'stable'
