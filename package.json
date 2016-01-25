@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "lodash": "^4.0.0",
-    "trailpack": "^0.0.21",
+    "trailpack": "^1.0.0-alpha-2",
     "trails-service": "^1.0.0-alpha-1"
   },
   "devDependencies": {
