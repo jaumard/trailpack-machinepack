@@ -1,6 +1,6 @@
 {
   "name": "trailpack-machinepack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Map machine packs into Trails services",
   "homepage": "https://github.com/jaumard/trailpack-machinepack",
   "author": {
