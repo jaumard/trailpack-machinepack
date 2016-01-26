@@ -2,6 +2,7 @@
 
 [![Gitter][gitter-image]][gitter-url]
 [![NPM version][npm-image]][npm-url]
+[![NPM downloads][npm-download]][npm-url]
 [![Build status][ci-image]][ci-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![Code Climate][codeclimate-image]][codeclimate-url]
@@ -57,6 +58,7 @@ this.app.services.MachineService.stringify(...)
 
 [npm-image]: https://img.shields.io/npm/v/trailpack-machinepack.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/trailpack-machinepack
+[npm-download]: https://img.shields.io/npm/dt/trailpack-machinepack.svg
 [ci-image]: https://travis-ci.org/jaumard/trailpack-machinepack.svg?branch=master
 [ci-url]: https://travis-ci.org/jaumard/trailpack-machinepack
 [daviddm-image]: http://img.shields.io/david/jaumard/trailpack-machinepack.svg?style=flat-square
