@@ -1,4 +1,11 @@
 # trailpack-machinepack
+
+[![Gitter][gitter-image]][gitter-url]
+[![NPM version][npm-image]][npm-url]
+[![Build status][ci-image]][ci-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+[![Code Climate][codeclimate-image]][codeclimate-url]
+
 :package: Map node machine packs into Trails services
 
 ## Intallation
