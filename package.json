@@ -8,6 +8,12 @@
     "email": "jimmy.aumard@gmail.com",
     "url": "https://github.com/jaumard"
   },
+  "files": [
+    "lib",
+    "config",
+    "archetype",
+    "api"
+  ],
   "main": "index.js",
   "keywords": [
     "trailpack",
