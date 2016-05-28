@@ -22,6 +22,23 @@ With npm (you will have to create config file manually) :
 `npm install --save trailpack-machinepack`
 
 ## Configuration
+First you need to add this trailpack to your __main__ configuration : 
+```js
+// config/main.js
+
+module.exports = {
+   ...
+
+   packs: [
+      ...
+      require('trailpack-machinepack'),
+      ...
+   ]
+   ...
+}
+```
+
+Then:
 ```js
 // config/machinepack.js
 module.exports = {
