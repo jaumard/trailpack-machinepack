@@ -84,3 +84,8 @@ this.app.services.MachineService.stringify(...)
 [codeclimate-url]: https://codeclimate.com/github/jaumard/trailpack-machinepack
 [gitter-image]: http://img.shields.io/badge/+%20GITTER-JOIN%20CHAT%20%E2%86%92-1DCE73.svg?style=flat-square
 [gitter-url]: https://gitter.im/trailsjs/trails
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/jaumard/trailpack-machinepack/badge.svg?style=beer-square)](https://beerpay.io/jaumard/trailpack-machinepack)  [![Beerpay](https://beerpay.io/jaumard/trailpack-machinepack/make-wish.svg?style=flat-square)](https://beerpay.io/jaumard/trailpack-machinepack?focus=wish)
