@@ -6,6 +6,8 @@
 [![Build status][ci-image]][ci-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![Code Climate][codeclimate-image]][codeclimate-url]
+[![Beerpay](https://beerpay.io/jaumard/trailpack-machinepack/badge.svg?style=flat)](https://beerpay.io/jaumard/trailpack-machinepack)
+[![Beerpay](https://beerpay.io/jaumard/trailpack-machinepack/make-wish.svg)](https://beerpay.io/jaumard/trailpack-machinepack)
 
 :package: Map node machine packs into Trails services
 
