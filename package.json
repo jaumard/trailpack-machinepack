@@ -28,7 +28,7 @@
     "trails-service": "^1.0.0-beta-2"
   },
   "devDependencies": {
-    "eslint": "^2.10.2",
+    "eslint": "^3.5.0",
     "eslint-config-trails": "^1.0.6",
     "machinepack-json": "^1.2.1",
     "mocha": "^2.4.5",
