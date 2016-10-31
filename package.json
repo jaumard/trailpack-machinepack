@@ -23,7 +23,7 @@
     "machinepack"
   ],
   "dependencies": {
-    "lodash": "^4.12.0",
+    "lodash": "^4.16.5",
     "trailpack": "^1.0.2",
     "trails-service": "^1.0.0-beta-2"
   },
