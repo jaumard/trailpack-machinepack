@@ -32,7 +32,7 @@
     "eslint-config-trails": "^1.0.6",
     "machinepack-json": "^1.2.1",
     "mocha": "^2.4.5",
-    "smokesignals": "^1.2.2",
+    "smokesignals": "^2.0.0",
     "trailpack-core": "^1.0.0-beta-6",
     "trails": "^1.0.0"
   },
