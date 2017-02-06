@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "eslint": "^2.10.2",
-    "eslint-config-trails": "^1.0.6",
+    "eslint-config-trails": "^2.0.8",
     "machinepack-json": "^1.2.1",
     "mocha": "^2.4.5",
     "smokesignals": "^1.2.2",
